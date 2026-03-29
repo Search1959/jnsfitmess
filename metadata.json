@@ -1,0 +1,5 @@
+{
+  "name": "JNS Fitness Club - Best Gym in Rajarhat, Kolkata",
+  "description": "Join JNS Fitness Club, the biggest and most affordable gym in Rajarhat, Kolkata. Strength training, cardio, weight loss, and personal training.",
+  "requestFramePermissions": ["geolocation"]
+}
